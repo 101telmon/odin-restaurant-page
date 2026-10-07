@@ -18,3 +18,8 @@ body {
 .bg-img {
     width: 100%;
 }
+
+div#content {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
